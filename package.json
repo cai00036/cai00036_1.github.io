@@ -1,0 +1,23 @@
+{
+  "name": "midtermproject",
+  "version": "1.0.0",
+  "description": "Wei_Cai\r mtm6330_020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cai00036/midtermProject.git"
+  },
+  "author": "Wei_Cai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cai00036/midtermProject/issues"
+  },
+  "homepage": "https://github.com/cai00036/midtermProject#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
