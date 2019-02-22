@@ -1,13 +1,8 @@
-$deep-grey: #282c34;
-$white-text: rgba(255,255,255,.98);
+$fonts-text:Tahoma,Helvetica,Arial,sans-serif;
+$font-headings: "Times New Roman", serif;
+$asphalt: #34495e;
+$clouds: #ecf0f1;
 
-body{
-  background-color: $deep-grey;
-  color: $white-text;
-}
-h1{
-  background-color: yellow;
-}
 @import "variables";
 body{
   font-family: $fonts-text;
